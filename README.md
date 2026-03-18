@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nishith Kashimalla</h1>
-<h3 align="center">a computer science student specializing in frontend development and data analysis, with a focus on creating impactful digital solutions.</h3>
+<h3 align="center">a computer science student,with a focus on creating impactful digital solutions.</h3>
 
 - 🔭 I’m currently working on **pdf analyzer using GEN AI**
 
-- 🌱 I’m currently learning **Google's Data analytics course**
+- 🌱 I’m currently learning **fullstack web development**
 
-- 👯 I’m looking to collaborate on **projects based on data analysis**
+- 👯 I’m looking to collaborate on **projects based on data analysis.machine learning and full stack applications**
 
 - 📫 How to reach me **nishithkashimalla6@gmail.com**
 
