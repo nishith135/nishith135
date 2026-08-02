@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishith Kashimalla</h1>
 <h3 align="center">a computer science student,with a focus on creating impactful digital solutions.</h3>
 
-- 🔭 I’m currently working on **pdf analyzer using GEN AI**
+- 🔭 I’m currently working on **TalentGraph- a fully automated job search**
 
 - 🌱 I’m currently learning **fullstack web development**
 
