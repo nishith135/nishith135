@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishith</h1>
-<h3 align="center">Computer Science Student | Full-Stack & AI/ML</h3>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/nishithkashimalla" target="_blank">
